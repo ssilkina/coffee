@@ -25,6 +25,10 @@ Health Benefits: Moderate coffee consumption has been associated with various he
 Coffee Culture: Coffee has evolved into a significant aspect of social and cultural practices worldwide. Cafés serve as meeting places, and the enjoyment of coffee is often accompanied by social interactions, art, literature, and music. Different cultures have developed unique rituals and traditions related to coffee consumption.
 
 ##Citations
+https://favicon.io/
+https://www.wikipedia.org/
+https://chat.openai.com/
+
 
 
 
